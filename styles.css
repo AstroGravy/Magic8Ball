@@ -1,0 +1,12 @@
+body{
+    background-color: brown;
+}
+button{
+    width: 200px;
+    height: 100px;
+    background-color: aqua;
+    border-radius: 10px;
+    border-color: aquamarine;
+    font-size: 50px;
+}
+
